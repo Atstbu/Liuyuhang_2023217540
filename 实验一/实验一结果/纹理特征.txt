@@ -1,0 +1,5 @@
+=== 实验一纹理特征 ===
+contrast：0.362799
+energy：0.083891
+entropy：4.435677
+correlation：0.990574
